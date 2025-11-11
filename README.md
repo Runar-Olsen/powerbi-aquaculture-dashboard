@@ -30,9 +30,13 @@ The project focuses on production capacity, commercial operations, and geographi
 
 ## 📁 Files
 - `PowerBI_Akvakulturer_lokaliteter.pbix` – Main Power BI file  
-- `data_sample.csv` – Example dataset  
-- `dashboard_preview.png` – Dashboard screenshot  
+- `PowerBI_prosjekt_Akvakultur_Preview.pdf` – Pdf preview
+- `dashboard_page1_overview.png` – Dashboard screenshot page 1
+- `dashboard_page2_details.png` – Dashboard screenshot page 2
+- `dashboard_page3_datagovernance.png` – Dashboard screenshot page 3
+- `dashboard_page4_ai.png` – Dashboard screenshot page 4
 
 ## 👤 Author
 Developed by Runar Olsen  
+
 Built to demonstrate analytical and visualization skills for BI roles.
